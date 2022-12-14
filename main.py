@@ -12,7 +12,7 @@ class FormaGeometrica(ABC):
         pass
     def descrie(cls):
         print('cel mai probabil am colturi')
-forma=FormaGeometrica()
+
 
 """
 Clasa Pătrat - moștenește FormaGeometrica
